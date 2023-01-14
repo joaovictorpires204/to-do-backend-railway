@@ -11,12 +11,6 @@
       "email": "arnialtda@gmail.com",
       "password": "123456789",
       "id": 2
-    },
-    {
-      "name": "stevan j",
-      "email": "stevan@teste.com",
-      "password": "12345678",
-      "id": 3
     }
   ],
   "tasks": [
